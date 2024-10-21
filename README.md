@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate mathematician and a budding data 
 
 ## 🌱 About Me
 - 🔭 **Currently Working On**: Drug repurposing using machine learning 📜
-- 🌍 **Exploring**: data science
+- 🌍 **Exploring**: data science and the world!
 - 🎓 **Skills**: Proficient in tools like tensorflow, scikitlearn, GenAI tools, ML and a whole bunch of mathematics!!😁⭐
 
 ---
