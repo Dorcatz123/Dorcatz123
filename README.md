@@ -1,11 +1,11 @@
 # 🌈 Hello, I'm Akshay! 👋
-Welcome to my GitHub profile! I'm a passionate mathematician and a budding data scientist. I am looking for how to leverage my skills to solve real world problems. My aim is to create innovative solutions that make a difference. 💡
+Welcome to my GitHub profile! I'm a passionate mathematician and a budding data scientist!. I am looking for how to leverage my skills to solve real world problems. My aim is to create innovative solutions that makes a difference. 💡
 
 ---
 
 ## 🌱 About Me
 - 🔭 **Currently Working On**: Drug repurposing using machine learning 📜
-- 🌍 **Exploring**: 
+- 🌍 **Exploring**: data science
 - 🎓 **Skills**: Proficient in tools like tensorflow, scikitlearn, GenAI tools, ML and a whole bunch of mathematics!!😁⭐
 
 ---
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate mathematician and a budding data 
 | **Programming Languages** | **Frameworks & Libraries**     | **Tools & Platforms**   |
 |---------------------------|--------------------------------|-------------------------|
 | Python                    | TensorFlow, Scikit-learn, numpy| Google Cloud, AWS, Azure|
-| R, SQL                    | pandas , Seaborn,Matplotlib    | GitHub                  |
+| R, SQL                    | pandas , Seaborn,Matplotlib    | GitHub, Flask,Streamlit |
 
 
 ---
