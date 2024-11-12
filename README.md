@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate mathematician and a budding data 
 |---------------------------|--------------------------------|-------------------------|
 | Python                    | TensorFlow, Scikit-learn, numpy| Google Cloud, AWS, Azure|
 | R, SQL                    | pandas , Seaborn,Matplotlib    | GitHub, Flask,Streamlit |
-
+                            
 
 ---
 
