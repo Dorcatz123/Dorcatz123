@@ -1,5 +1,5 @@
 # 🌈 Hello, I'm Akshay! 👋
-Welcome to my GitHub profile! I'm a passionate mathematician and a budding data scientist!. I am passionate about leveraging my skills to solve real world problems. My aim is to create innovative solutions that makes a difference. 💡
+Welcome to my GitHub profile! I'm a passionate mathematician and a budding data scientist. My aim is to create innovative solutions that makes a difference. 💡
 
 ---
 
