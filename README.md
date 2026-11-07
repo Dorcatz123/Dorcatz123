@@ -2,11 +2,6 @@
 Welcome to my GitHub profile! I'm a passionate mathematician and a budding data scientist. My aim is to create innovative solutions that makes a difference. 💡
 
 
-## 📊 GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dorcatz123&show_icons=true&theme=radical)
-
----
 
 ## 📆 Contribution Graph
 
