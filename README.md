@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate mathematician and a budding data 
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dorcatz123&show_icons=true&theme=radical)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dorcatz123&show_icons=true&theme=radical)
 
 ---
 
